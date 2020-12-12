@@ -7,6 +7,7 @@ public class Test1
 {
 	public static void main(String[] args) throws Exception
 	{
+	//comments
 		//System.setProperty("webdriver.chrome.driver","D:\\chromedriver_win32\\chromedriver.exe");
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\Venkata\\Documents\\sel\\chromedriver.exe");
 		ChromeDriver obj=new ChromeDriver();
